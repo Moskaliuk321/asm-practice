@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  asm-dev:
+    build: .
+    container_name: asm-practice
+    volumes:
+      - .:/asm
+    stdin_open: true
+    tty: true
