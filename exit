@@ -1,0 +1,11 @@
+[33mcommit ecb014c3022c8ec86601b60e97fb851d70661fc8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Moskaliuk321 <lolipopabobus@gmail.com>
+Date:   Fri Apr 17 09:36:25 2026 +0300
+
+    completed all practicals and added gitignore
+
+ .gitignore              |  5 [32m++++[m[31m-[m
+ lessons/3/compile.sh    |  1 [32m+[m
+ lessons/3/link.sh       |  1 [32m+[m
+ lessons/3/practice3.asm | 53 [32m+++++++++++++++++++++++++++++++++++++++++++++++++[m
+ 4 files changed, 59 insertions(+), 1 deletion(-)
