@@ -1,0 +1,1 @@
+ld -m elf_i386 -o practice8 practice8.o

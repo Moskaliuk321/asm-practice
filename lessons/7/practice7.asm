@@ -1,4 +1,4 @@
-section .data
+﻿section .data
 str_min db 0xA, "Min: ", 0
 str_max db 0xA, "Max: ", 0
 str_idx db " Index: ", 0
